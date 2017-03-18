@@ -1,0 +1,21 @@
+
+
+n =45
+Its Fibonacci number is 1134903170
+Iterative Version The elapsed time was 2.59587E-4 seconds.
+Time Complexity- O(n)
+
+Its Fibonacci number is 1134903170
+Mathematical Version The elapsed time was 1.2402E-4 seconds.
+Time Complexity-O(1)
+
+Its Fibonacci number is 1134903170
+Long Recursive Version The elapsed time was 7.496001006 seconds.
+Time Complexity-O(2^n)
+
+Its Fibonacci number is 1134903170
+recursive Version The elapsed time was 7.8688E-5 seconds
+Time Complexity-O(n)
+
+Conclusion
+The original recursive method took the most time because its time complexity is O(2^n).
